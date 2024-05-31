@@ -1,4 +1,4 @@
-The following psettings can be configured:
+The following settings can be configured:
 - Starting height
 - Starting density
 - Starting speed
